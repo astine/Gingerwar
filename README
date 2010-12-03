@@ -1,0 +1,21 @@
+This is a simple platform game with the goal being to eliminate
+all of the monsters by jumping on them. The player must avoid
+comming in contact with monsters to avoid losing the game. The
+monsters constantly spawn so it should be a challenge for the 
+player to eliminate them all.
+
+This is a simple game I slapped together in about a week. It's
+clearly very unfinished. I wrote it because I wanted to mess
+around with some C which I haven't done in a long while. If I
+had the time or inclination, there are a number of things I
+would add, such as:
+ Animated Sprites
+ Transparency
+ Better Collision Detection
+ More Monster Types
+ Better Platform Graphics
+ A Top Scrolling Screen
+ A Proper Animation for Dying Monsters
+
+The only dependency this game has is SDL so it should be easy to
+compile with gcc or clang.
